@@ -1,0 +1,14 @@
+.card-list-conatiner{
+        justify-content: center;
+        align-items: center;
+        margin: auto;  
+}
+.second{
+        justify-content: center;
+        align-items: center;
+        margin: auto;  
+        width: 710px;
+        background-color: #f5e9ff;
+        border-radius: 15px;
+        color: #5a278e;
+}
